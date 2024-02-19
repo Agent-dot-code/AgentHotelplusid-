@@ -1,7 +1,7 @@
 INGIN BERTEMAN DENGAN PARA WANITA DIBERBAGAI TEMPAT.
 CEKIN HOTEL MUDAH LENGKAP DENGAN SERVIS LEDIES DIDALAMNYA 
 <title>https://www.instagram.com/sherlyirenee?igsh=OGQ5ZDc2ODk2ZA==
-<link href="style.css" rel="stylesheet" type="text/css" />
+<link href="style.css" rel="stylesheet" type="text/css" />UNTUK DAFTAR PILIHAN TEMPAT YANG NYAMAN DAN HARGA TERJANGKAU 
 <link href="js/js-image-slider.css" rel="stylesheet" type="text/css" />
 <script src="js/js-image-slider.js" type="text/javascript"></script>
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Bitter:400,700">
