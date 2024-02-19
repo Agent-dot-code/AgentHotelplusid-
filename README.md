@@ -1,6 +1,6 @@
-html>INGIN BERTEMAN DENGAN PARA WANITA DIBERBAGAI TEMPAT.
-<head>CEKIN HOTEL MUDAH LENGKAP DENGAN SERVIS LEDIES DIDALAMNYA 
-<title>Minggo.co.id</title>
+INGIN BERTEMAN DENGAN PARA WANITA DIBERBAGAI TEMPAT.
+CEKIN HOTEL MUDAH LENGKAP DENGAN SERVIS LEDIES DIDALAMNYA 
+<title>https://www.instagram.com/sherlyirenee?igsh=OGQ5ZDc2ODk2ZA==
 <link href="style.css" rel="stylesheet" type="text/css" />
 <link href="js/js-image-slider.css" rel="stylesheet" type="text/css" />
 <script src="js/js-image-slider.js" type="text/javascript"></script>
