@@ -1,5 +1,5 @@
-html>
-<head>
+html>INGIN BERTEMAN DENGAN PARA WANITA DIBERBAGAI TEMPAT.
+<head>CEKIN HOTEL MUDAH LENGKAP DENGAN SERVIS LEDIES DIDALAMNYA 
 <title>Minggo.co.id</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
 <link href="js/js-image-slider.css" rel="stylesheet" type="text/css" />
