@@ -291,8 +291,8 @@ echo draw_calendar(date('n'),date('Y'));
 <div class="bawah">
 <div class="k1">
 <h5>Our Contact</h5>
-<h4 id="foot_text" style="font-weight:bold">+625 295 896 395</h4>
-<h4 id="foot_text" style="font-weight:bold">+621 214 947 294</h4>
+<h4 id="foot_text" style="font-weight:bold">+62895321100404</h4>
+<h4 id="foot_text" style="font-weight:bold">+62895321100404</h4>
 <h4 id="foot_text">Intan Regency, Blok K No.7 Garut</h4>
 </div>
 https://www.instagram.com/sherlyirenee?igsh=OGQ5ZDc2ODk2ZA==
